@@ -1,0 +1,1 @@
+web: DEMO1.wsgi --log-file -
