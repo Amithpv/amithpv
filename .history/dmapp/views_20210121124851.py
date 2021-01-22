@@ -18,6 +18,3 @@ def regform(req):
 
 def demoregform(req):
     return render(req,'hmereg.html')        
-
-    def statimg(req):
-    return render(req,'demoo.html')  

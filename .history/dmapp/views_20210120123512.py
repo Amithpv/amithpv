@@ -14,10 +14,3 @@ def form(req):
 
 def regform(req):
     return render(req,'regtable.html')    
-
-
-def demoregform(req):
-    return render(req,'hmereg.html')        
-
-    def statimg(req):
-    return render(req,'demoo.html')  

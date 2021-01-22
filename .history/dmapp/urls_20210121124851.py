@@ -5,6 +5,5 @@ path('dm1',views.fnDemo1),
 path('fnhrk',views.fnh),
 path('form',views.form),
 path('reg',views.regform),
-path('demoreg',views.demoregform),
-path('static',views.statimg)
+path('demoreg',views.demoregform)
 ]
